@@ -1,4 +1,4 @@
-PataPay
+PataPay - Pata, Pay, Prosper.
 
 The name "PataPay" is inspired by my country of origin, "Pata" means "to get" or "to receive," while "Pay" refers to giving money. This combination reflects the purpose of the application: helping you manage your finances efficiently. In a world of recurring payments, subscriptions, rent, and bills, PataPay empowers users to record, view, and analyze transactions in a structured way to help save more and spend less.
 

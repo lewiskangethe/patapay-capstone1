@@ -30,6 +30,8 @@ public class PataPayApplication {
         while (running) {
             // Display home screen menu
             System.out.println("**********");
+            System.out.println("PATAPAY");
+            System.out.println("**********");
             System.out.println("HOME SCREEN");
             System.out.println("**********");
             System.out.println("D) Make Deposit");

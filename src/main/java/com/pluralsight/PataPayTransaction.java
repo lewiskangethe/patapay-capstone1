@@ -1,7 +1,7 @@
 package com.pluralsight;
 
 public class PataPayTransaction {
-
+    // Fields
     private String date;
     private String time;
     private String description;
@@ -45,7 +45,7 @@ public class PataPayTransaction {
     // This method returns a formatted string representation of the transaction
     @Override
     public String toString() {
-        return "*****TRANSACTION*****\n" +
+        return "***** TRANSACTION *****\n" +
                 "Date = " + date + "\n" +
                 "Time = " + time + "\n" +
                 "Description = " + description + "\n" +
